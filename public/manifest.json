@@ -6,7 +6,7 @@
   "start_url": "/",
   "name": "next-pwa-boilerplate",
   "short_name": "next-pwa-boilerplate",
-  "description": "A PWA boilerplate with Next Js TypeScript",
+  "description": "A PWA boilerplate with Next Js",
   "icons": [
     {
       "src": "/icon-192x192.png",
